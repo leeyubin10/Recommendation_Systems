@@ -1,0 +1,1 @@
+ 20220526-132645,[command] python run_expid.py --version pytorch --config Criteo/MaskNet_criteo_x1/MaskNet_criteo_x1_tuner_config_03 --expid MaskNet_criteo_x1_008_7071fa3f --gpu 7,[exp_id] MaskNet_criteo_x1_008_7071fa3f,[dataset_id] criteo_x1_7b681156,[train] N.A.,[val] AUC: 0.813501 - logloss: 0.438563,[test] AUC: 0.813909 - logloss: 0.438021
