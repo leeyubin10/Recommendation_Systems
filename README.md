@@ -8,6 +8,9 @@ Additionally, we evaluated the performance of **MaskNet** as a baseline for comp
 
 ## Model Architecture
 
+![image](https://github.com/user-attachments/assets/d0169dfb-4547-430e-b84a-4b99e8b47312)
+
+
 ### DCN-V2 with Transformer
 - **CrossNet Replacement**: We replaced the CrossNet module in the original DCN-V2 model with a Transformer to improve the ability to capture higher-order feature interactions. The Transformer utilizes self-attention to learn complex dependencies between features.
 - **Feature Interaction Learning**: By leveraging explicit interaction (via CrossNet) and implicit interaction (via Transformer), we aim to improve the model's overall performance.
