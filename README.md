@@ -20,19 +20,18 @@ Additionally, we evaluated the performance of **MaskNet** as a baseline for comp
 
 Below is a comparison of various models and their respective **AUC** scores on the Criteo dataset.
 
-| **Model**       | **AUC**  |
-|-----------------|----------|
-| **Criteo**      | -        |
-| **PNN**         | 0.8099   |
-| **DeepFM**      | 0.8099   |
-| **DLRM**        | 0.8092   |
-| **xDeepFM**     | 0.8099   |
-| **AutoInt+**    | 0.8101   |
-| **DCN**         | 0.8099   |
-| **DNN**         | 0.8098   |
-| **SerMaskNet**  | 0.8119   |
-| **DCN-V2**      | 0.8115   |
-| **Ours**        | **0.8135** |
+| **Dataset**     | **Model**       | **AUC**  |
+|-----------------|-----------------|----------|
+| **Criteo**      | **PNN**         | 0.8099   |
+|                 | **DeepFM**      | 0.8099   |
+|                 | **DLRM**        | 0.8092   |
+|                 | **xDeepFM**     | 0.8099   |
+|                 | **AutoInt+**    | 0.8101   |
+|                 | **DCN**         | 0.8099   |
+|                 | **DNN**         | 0.8098   |
+|                 | **SerMaskNet**  | 0.8119   |
+|                 | **DCN-V2**      | 0.8115   |
+|                 | **Ours**        | **0.8135** |
 
 The improved model (**Ours**) demonstrates the best AUC score of **0.8135**, outperforming all other baseline models, including DCN-V2.
 
