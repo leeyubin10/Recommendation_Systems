@@ -39,4 +39,4 @@ The improved model (**Ours**) demonstrates the best AUC score of **0.8135**, out
 ## References
 
 - **Google Drive**: [Link to Google Drive](<Insert your Google Drive link here>)
-- **GitHub Repository**: [Link to GitHub Repository](<Insert your GitHub repository link here>)
+- **GitHub Repository**: [Link to GitHub Repository](https://github.com/reczoo/FuxiCTR)
