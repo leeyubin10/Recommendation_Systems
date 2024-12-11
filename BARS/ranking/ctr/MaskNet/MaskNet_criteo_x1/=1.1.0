@@ -1,0 +1,5 @@
+Collecting tomli
+  Downloading tomli-2.1.0-py3-none-any.whl.metadata (10.0 kB)
+Downloading tomli-2.1.0-py3-none-any.whl (13 kB)
+Installing collected packages: tomli
+Successfully installed tomli-2.1.0

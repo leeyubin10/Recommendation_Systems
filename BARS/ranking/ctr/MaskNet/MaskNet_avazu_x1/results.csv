@@ -1,0 +1,1 @@
+ 20220526-232755,[command] python run_expid.py --version pytorch --config Avazu/MaskNet_avazu_x1/MaskNet_avazu_x1_tuner_config_02 --expid MaskNet_avazu_x1_034_99b442f6 --gpu 6,[exp_id] MaskNet_avazu_x1_034_99b442f6,[dataset_id] avazu_x1_3fb65689,[train] N.A.,[val] AUC: 0.744443 - logloss: 0.397339,[test] AUC: 0.764289 - logloss: 0.367388
