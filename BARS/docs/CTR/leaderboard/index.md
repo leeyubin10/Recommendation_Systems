@@ -1,0 +1,4 @@
+# BARS-CTR Leaderboard
+
+```{tableofcontents}
+```
